@@ -1,0 +1,5 @@
+{
+  "doc-title": "Sample",
+  "title": "JQuery language sample",
+  "text": "On the first load, the browser language is saved at localStorage. On the following loads, it uses the langue at localStorage, but the user always can change the languae at runtime."
+}

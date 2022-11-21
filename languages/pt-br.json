@@ -1,0 +1,5 @@
+{
+  "doc-title": "Exemplo",
+  "title": "Exemplo de idiomas com JQuery",
+  "text": "Na primeira execução ele define o idioma baseado no idioma do navegador e salva no localStorage. Nas demais execuções, ele carrega diretamente do localStorage, mas sempre permite a alteração do idioma por parte do usuário."
+}
